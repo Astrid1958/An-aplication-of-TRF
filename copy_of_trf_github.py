@@ -335,8 +335,6 @@ print(len(y_true), len(y_pred))
 print("N sujetos en results:", len(results))
 print(results )
 
-import numpy as np
-
 r_slow = []
 r_fast = []
 
